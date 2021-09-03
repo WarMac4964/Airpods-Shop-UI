@@ -82,7 +82,7 @@ Cross-platform UI concept for Airpods Shop app written in Flutter/Dart.
 
 ## About The Project
 
-<img  src="readme/Airpods-Shop-UI.gif"  alt="feature"  width="250"  >
+<img  src="readme/Airpods-Shop-UI.gif"  alt="feature"  width="600"  >
 
 UI Concept for shopping app written in Flutter/Dart for Android & iOS.
 
